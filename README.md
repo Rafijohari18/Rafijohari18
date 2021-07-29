@@ -7,7 +7,7 @@ Skil Android Developer: Java
 
 Pengalaman:
 
-1. PT.KLIKQUICK as Freelance Fullstack Web Developer
+1. PT.KLIKQUICK as Fullstack Web Developer
 2. PT.Vision Media Creative as Backend Web Developer
 
 Portfolio (Publish & Private):
