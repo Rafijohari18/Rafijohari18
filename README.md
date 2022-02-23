@@ -14,6 +14,7 @@ Portfolio (Publish & Private):
 
 A. Kategori WEB Development
 
+1.  Aplikasi Management Pengelolaan Cuci Mobil (Laravel & Jquery)
 1.  Aplikasi E-Commerce (Synapse)
 2.  Aplikasi Persuratan KPUD Bandung (Synapse)
 3.  Website Kampung Inggris Sorong  https://www.sorongenglishvillage.com/ (Laravel + Jquery)
