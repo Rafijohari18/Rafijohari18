@@ -2,6 +2,7 @@
 Ini adalah halaman khusus untuk memperkenalkan diri saya.
 
 Nama Lengkap: Rafi Johari Wilistianto
+
 Skil Web Developer: HTML, CSS, JS, JQuery, PHP, Codeigniter, Laravel, Vue.js, React Js , Synapse (Framework Custom Laravel + Vue)
 
 Skil Android Developer: Java , React Native 
